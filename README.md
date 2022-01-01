@@ -7,13 +7,16 @@
 
 ## <img src="asset/praying.gif" width="40px">  <samp>Hello World!</samp> <img src="asset/theWorld.gif" width="40px">
 
-<h1>Helksdafjklsdfj</h1>
+<samp>I am a Thai 🇹🇭  I am currently studying in Australia 🇦🇺  </samp>
+<samp>I like solving problems and communications</samp>
+<samp>I think every problems in this world can be solved 🤗</samp> , <samp>depends on knowledge</samp>
 
-<samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
+<samp>to know more about me, simply follow my social media such as Facebook and Instagram. I like making new friends  and exchange experience.</samp>
+<samp>I love learning new things </samp>
 
-- 🏡 &nbsp; <samp>I love being with my family and friends, they are everything to me.</samp>
-- ✈️ &nbsp; <samp>I love to travel and get to know new places and cultures.</samp>
-- ⚽ &nbsp; <samp>Passionate about football.</samp>
-- 👨‍🎓 &nbsp; <samp>My academic life.[__here__](https://github.com/mupezzuol/list-of-courses-certifications)</samp>
+- 
+- 
+- 
+-
 
 ---
