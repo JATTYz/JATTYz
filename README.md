@@ -5,7 +5,7 @@
 [Twitter Badge]
 [Gmail Badge]
 
-## <img src="asset/praying.gif" width="40px">  <samp>Hello World!</samp> 
+## <img src="asset/praying.gif" width="40px">  <samp>Hello World!</samp> asset/world2.gif <img src="asset/world2.gif" width="40px">
 
 <samp>Stay free to know a little more about my life, follow me on my networks where I share a little more about myself. I love to make new friends and learn new things.</samp> &nbsp; 💻 &nbsp; 🚀
 
