@@ -1,4 +1,4 @@
-# <samp>Jaturon Tepjuk (Jatty)</samp> <img src="asset/sibainu.gif" width="30px">
+# <samp>Jaturon Tepjuk (Jatty)</samp> <img src="asset/sibainu.gif" width="40px">
 
 [Linkedin Badge]
 [Instagram Badge]
