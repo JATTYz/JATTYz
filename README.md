@@ -9,7 +9,7 @@
 ## <img src="asset/praying.gif" width="40px">  <samp>Hello World!</samp> <img src="asset/theWorld.gif" width="40px">
 
 <samp>I am a Thai 🇹🇭  I am currently studying in Australia 🇦🇺  </samp>
-<samp>I like solving problems and communications</samp>
+<samp>I like solving problems and communications</samp>&emsp;
 <samp>I think every problems in this world can be solved 🤗</samp> , <samp>depends on knowledge.</samp>
 
 <samp>To know more about me, simply follow my social media such as Facebook and Instagram. I like making new friends  and talking about experience.</samp>
