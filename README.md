@@ -1,6 +1,6 @@
 # <samp>Jaturon Tepjuk (Jatty)</samp> <img src="asset/sibainu.gif" width="40px">
 
-<a href="https://www.facebook.com/jaturon.tepjuk"><img src="asset/Facebook.png"/ height="30" width="40"></a>
+<a href="https://www.facebook.com/jaturon.tepjuk"><img src="asset/Facebook.png" height="30" width="40" /></a>
 
 ## <img src="asset/praying.gif" width="40px">  <samp>Hello World!</samp> <img src="asset/theWorld.gif" width="40px">
 
