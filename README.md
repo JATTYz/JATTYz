@@ -18,7 +18,7 @@
 My favorite activities 🏃
 - Reading Books 📚📖
 - Excercising (I love playing sports) 🏃 🏀 ⚽️🎾⛳️🪁🤿
-- Play guitar 🎸
+- Playing guitar 🎸
 - Making Money 💵 💵 🤑
 
 ---
