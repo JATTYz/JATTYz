@@ -1,10 +1,10 @@
 # <samp>Jaturon Tepjuk (Jatty)</samp> <img src="asset/sibainu.gif" width="40px">
 
 
-<a href="https://www.facebook.com/jaturon.tepjuk"><img src="asset/Facebook.png" width="40" />    </a>
-<a href=""><img src="asset/Instagram.png" width="40" />    </a>
-<a href=""><img src="asset/LinkedIn.png" width="40" />    </a>
-<a href=""><img src="asset/Twitter.png" width="40" />    </a>
+<a href="https://www.facebook.com/jaturon.tepjuk"><img src="asset/Facebook.png" width="40" /></a><br>
+<a href=""><img src="asset/Instagram.png" width="40" /></a><br>
+<a href=""><img src="asset/LinkedIn.png" width="40" /></a><br>
+<a href=""><img src="asset/Twitter.png" width="40" /></a><br>
 
 ## <img src="asset/praying.gif" width="40px">  <samp>Hello World!</samp> <img src="asset/theWorld.gif" width="40px">
 
