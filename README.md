@@ -5,7 +5,7 @@
 <a href=""><img src="asset/Instagram.png" width="40" /></a>&emsp;
 <a href=""><img src="asset/LinkedIn.png" width="40" /></a>&emsp;
 
-##<samp>Hello World!</samp> <img src="asset/theWorld.gif"/>
+##<samp>Hello World!</samp> <img width="10" src="asset/theWorld.gif"/>
 
 <samp>I am a Thai 🇹🇭  I am currently studying in Australia 🇦🇺  </samp>
 <samp>I like solving problems and communications.</samp><br>
