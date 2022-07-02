@@ -1,10 +1,10 @@
 # <samp>Jaturon Tepjuk (Jatty)</samp> 
 
-<div align="center">
+<!-- <div align="center">
  <img width="100%" height="100px" src="https://media.giphy.com/media/AOSwwqVjNZlDO/giphy.gif" />
- </div>
+ </div> -->
 
-## <samp>Hello World!</samp> <img width="50" src="asset/theWorld.gif"/>
+## <samp align="center">Hello World!</samp> <img width="50" src="asset/theWorld.gif"/>
 
 <samp>I am a Thai 🇹🇭  I am currently studying in Australia 🇦🇺  </samp>
 <samp>I like solving problems and communications.</samp><br>
