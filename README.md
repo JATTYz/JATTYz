@@ -1,7 +1,7 @@
 # <samp>Jaturon Tepjuk (Jatty)</samp> 
  
 <div align="center">
-   <img width="50" src="asset/theWorld.gif"/>
+   <img width="80" src="asset/theWorld.gif"/>
   <h1>  Hello World!</h1>  
   
 </div>
