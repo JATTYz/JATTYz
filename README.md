@@ -1,4 +1,4 @@
-# <samp>Jaturon Tepjuk (Jatty)</samp> <img src="asset/sibainu.gif" width="10px">
+# <samp>Jaturon Tepjuk (Jatty)</samp> 
 
 
 <a href="https://www.facebook.com/jaturon.tepjuk"><img src="asset/Facebook.png" width="40" /></a>&emsp;
@@ -6,7 +6,7 @@
 <a href=""><img src="asset/LinkedIn.png" width="40" /></a>&emsp;
 <a href=""><img src="asset/Twitter.png" width="40" /></a>&emsp;
 
-## <img src="asset/praying.gif" width="40px">  <samp>Hello World!</samp> <img src="asset/theWorld.gif" width="10px">
+##<samp>Hello World!</samp> 
 
 <samp>I am a Thai 🇹🇭  I am currently studying in Australia 🇦🇺  </samp>
 <samp>I like solving problems and communications.</samp><br>
