@@ -1,5 +1,5 @@
 # <samp>Jaturon Tepjuk (Jatty)</samp> <img src="asset/sibainu.gif" width="10px">
-<img src=”https://userimages.githubusercontent.com/75753187/123358567-aac7b900-d539-11eb-8275-0b380264bb4c.png" alt=”my banner”>
+
 
 <a href="https://www.facebook.com/jaturon.tepjuk"><img src="asset/Facebook.png" width="40" /></a>&emsp;
 <a href=""><img src="asset/Instagram.png" width="40" /></a>&emsp;
@@ -22,3 +22,6 @@ My favorite activities 🏃
 - Making Money 💵 💵 🤑
 
 ---
+[![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Jattyz)](https://github.com/Jattyz)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jattyz&layout=compact)](https://github.com/Jattyz)
