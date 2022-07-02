@@ -20,13 +20,13 @@ My favorite activities 🏃
 - Making Money 💵 💵 🤑
 
 
-## Connect Me
+## 🤝 Connect Me
 
 <a href="https://www.facebook.com/jaturon.tepjuk"><img src="asset/Facebook.png" width="40" /></a>&emsp;
 <a href="https://www.instagram.com/jaturon_tepjuk/"><img src="asset/Instagram.png" width="40" /></a>&emsp;
 <a href="https://www.linkedin.com/in/jaturon-tepjuk-310b94205/"><img src="asset/LinkedIn.png" width="40" /></a>&emsp;
 
-## Technical Skills
+## 💻 Technical Skills
 
 #### Programming Skills
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -69,7 +69,7 @@ My favorite activities 🏃
 </br>
 
 ---
-## Github Stats
+## :chart_with_upwards_trend: Github Stats
 
 [![](https://github-readme-stats.vercel.app/api?username=Jattyz)](https://github.com/Jattyz)
 
