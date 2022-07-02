@@ -5,9 +5,11 @@
  </div> -->
  
 <div align="center">
-  <img width="50" src="asset/theWorld.gif"/> <h1>Hello World!</h1>  <img width="50" src="asset/theWorld.gif"/>
-
+  <img width="50" src="asset/theWorld.gif"/> 
+  <h1>Hello World!</h1>  
+  <img width="50" src="asset/theWorld.gif"/>
 </div>
+
 <samp>I am a Thai 🇹🇭  I am currently studying in Australia 🇦🇺  </samp>
 <samp>I like solving problems and communications.</samp><br>
 <samp>I think every problems in this world can be solved 🤗</samp> , <samp>depends on knowledge.</samp>
