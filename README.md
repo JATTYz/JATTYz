@@ -19,12 +19,13 @@ My favorite activities 🏃
 - Playing guitar 🎸
 - Making Money 💵 💵 🤑
 
-
 ## 🤝 Connect Me
 
 <a href="https://www.facebook.com/jaturon.tepjuk"><img src="asset/Facebook.png" width="40" /></a>&emsp;
 <a href="https://www.instagram.com/jaturon_tepjuk/"><img src="asset/Instagram.png" width="40" /></a>&emsp;
 <a href="https://www.linkedin.com/in/jaturon-tepjuk-310b94205/"><img src="asset/LinkedIn.png" width="40" /></a>&emsp;
+<br/>
+<br/>
 
 ## 💻 Technical Skills
 
