@@ -2,7 +2,7 @@
  
 <div align="center">
  
-  <h1> <img width="50" src="asset/theWorld.gif"/> Hello World! <img width="50" src="asset/theWorld.gif"/></h1>  
+  <h1> <img width="50" src="https://media.giphy.com/media/ZZMocqZ75tuVqvMQ9I/giphy.gif" /> Hello World! <img width="50" src="asset/theWorld.gif"/></h1>  
   
 </div>
 
