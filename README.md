@@ -22,6 +22,9 @@ My favorite activities 🏃
 - Making Money 💵 💵 🤑
 
 ---
+
+## Github Stats
+
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=Jattyz)](https://github.com/Jattyz)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jattyz&layout=compact)](https://github.com/Jattyz)
