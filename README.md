@@ -77,4 +77,4 @@ My favorite activities 🏃
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jattyz&layout=compact)](https://github.com/Jattyz)
 
 ## My project links:
-<a href="https://api-tracker-jaturon.herokuapp.com" target="_blank"> GO TO THE PROJECT</a>
+<a target="_blank" href="https://api-tracker-jaturon.herokuapp.com"> GO TO THE PROJECT</a>
