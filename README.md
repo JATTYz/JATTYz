@@ -13,7 +13,7 @@
 <samp>To know more about me, simply follow my social media such as Facebook and Instagram. I like making new friends  and talking about experience.</samp>
 <samp>I love learning new things and I will never stop 😁</samp>
 
-My favorite activities 🏃
+My favorite hobbies 🏃
 - Reading Books 📚📖
 - Excercising (I love playing sports) 🏃 🏀 ⚽️🎾⛳️🪁🤿
 - Playing guitar 🎸
