@@ -78,7 +78,7 @@ My favorite hobbies
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jattyz&layout=compact)](https://github.com/Jattyz)
 
 ## My project links:
-<a target="blank" href="https://jattyz-profile.herokuapp.com">My Profile website</a><br/>
+<a target="blank" href="https://jattyz.github.io/portfolio/">My Profile website</a><br/>
 <a target="_blank" href="https://api-tracker-jaturon.herokuapp.com">A Cyptocurrentcy tracker application</a> <br/>
 <a target="_blank" href="https://jattyz.pythonanywhere.com">A Quiz platform</a>
 
