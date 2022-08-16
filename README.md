@@ -10,7 +10,7 @@
 <samp>I like solving problems. I think every problems in this world can be solved 🤗</samp><br>
 <samp>depends on what we already know or not. But I still can't solve many problems, that's why we need to keep learning and practicing 🤜</samp>
 
-<samp>To know more about me, simply follow my social media such as Facebook and Instagram. I like making new friends and talking about technology.</samp>
+<samp>To know more about me, simply follow my social media such as Facebook, Instagram or Linkedin. I like making new friends and talking about technology.</samp>
 <samp>I love learning new things and I will never stop 😁</samp>
 
 My favorite hobbies 
