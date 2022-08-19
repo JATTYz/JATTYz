@@ -6,7 +6,7 @@
   
 </div>
 
-<samp>I am Thai 🇹🇭  I am currently studying a master of IT specilised in software development at Swinburne University of Technology in Australia 🇦🇺  </samp>
+<samp>I am Thai 🇹🇭  I am currently studying a master of IT specilised in Software Development at Swinburne University of Technology in Australia 🇦🇺  </samp>
 <samp>I like solving problems. I think every problems in this world can be solved 🤗</samp><br>
 <samp>depends on what we already know or not. But I still can't solve many problems, that's why we need to keep learning and practicing 🤜</samp>
 
