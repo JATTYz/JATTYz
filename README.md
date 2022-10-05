@@ -74,13 +74,13 @@ My favorite hobbies
 </br>
 
 ---
-<!---
+
 ## :chart_with_upwards_trend: Github Stats
-
+<!---
 [![](https://github-readme-stats.vercel.app/api?username=Jattyz)](https://github.com/Jattyz)
-
+--->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jattyz&layout=compact)](https://github.com/Jattyz)
--->
+
 ## My project links:
 <a target="blank" href="https://jattyz.github.io/portfolio/">My Profile website</a><br/>
 <a target="_blank" href="https://api-tracker-jaturon.herokuapp.com">A Cyptocurrentcy tracker application</a> <br/>
