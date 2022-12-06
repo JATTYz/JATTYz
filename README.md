@@ -13,7 +13,7 @@
 <samp>To know more about me, simply follow my social media such as Facebook, Instagram or Linkedin. I like making new friends and talking about technology.</samp>
 <samp>I love learning new things and I will never stop 😁</samp>
 
-My favorite hobbies
+My hobbies
 - Reading Books 📚
 - Excercising 🏃
 - Playing guitar 🎸
